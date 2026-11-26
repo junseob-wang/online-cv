@@ -52,7 +52,8 @@ career-profile:
       Since January 2026, he has been working as an undergraduate research
       intern in the CAD & SoC Design Lab (CSDL) under the supervision of
       Prof. Seokhyeong Kang. His research interests include design-technology
-      co-optimization (DTCO) and design space optimization (DSO).
+      co-optimization (DTCO), which jointly optimizes design and process for
+      next-generation semiconductors, and design space optimization (DSO).
 
 education:
     - degree: B.S. in Semiconductor Engineering
