@@ -56,14 +56,15 @@ education:
 experiences:
     - role: Undergraduate Research Intern
       time: Winter 2025 - Present
-      company: CSDL, POSTECH
+      company: CAD & SoC Design Lab (CSDL), POSTECH
       details: |
-        Research on design-technology co-optimization (DTCO) at the CAD & SoC Design Lab (Prof. Seokhyeong Kang)
+        Advisor: Prof. Seokhyeong Kang
     - role: Undergraduate Research Participant
       time: Summer 2026
-      company: ICSL, POSTECH
+      company: Integrated Circuit and System Lab (ICSL), POSTECH
       details: |
-        Summer undergraduate research program at the Integrated Circuit and System Lab
+        - Designed and verified a 0-2-tap CML feed-forward equalizer (FFE) for a 20 Gb/s NRZ channel using Cadence Virtuoso with a 28nm PDK
+        - Analyzed eye-opening degradation caused by over-equalization in the 2-tap configuration
 
 skills:
     title: Skills &amp; Proficiency
