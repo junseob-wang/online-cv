@@ -4,11 +4,11 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Junseob Wang
-    tagline: Undergraduate Research Intern
+    tagline: Undergraduate Research Intern at CSDL, POSTECH, Korea
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,39 +28,45 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf:
 
+    languages:
+      - idiom: Korean
+        level: Native
+
     interests:
       - item: Design-Technology Co-Optimization (DTCO)
         link:
 
 career-profile:
-    title: Research Profile
+    title: Career Profile
     summary: |
-      I am an undergraduate research intern at the CAD & SoC Design Lab (CSDL),
-      POSTECH, led by Prof. Seokhyeong Kang. I study design-technology
-      co-optimization (DTCO): methodologies that optimize design and process
-      together for next-generation semiconductors.
+      I am a B.S. student in Semiconductor Engineering at POSTECH, which I entered
+      in 2025. Since Winter 2025, I have been an undergraduate research intern at
+      the CAD & SoC Design Lab (CSDL) under Prof. Seokhyeong Kang. My research
+      interest is design-technology co-optimization (DTCO), which jointly
+      optimizes design and process for next-generation semiconductors.
 
 education:
     - degree: B.S. in Semiconductor Engineering
-      university: POSTECH
-      time: Feb. 2025 - Feb. 2028 (expected)
+      university: POSTECH (Pohang University of Science and Technology), Pohang, South Korea
+      time: Feb. 2025 - Feb. 2028 (Expected)
 
 experiences:
     - role: Undergraduate Research Intern
-      time: 2025 Winter - Present
-      company: CAD & SoC Design Lab (CSDL), POSTECH
+      time: Winter 2025 - Present
+      company: CSDL, POSTECH
       details: |
-        - Research on design-technology co-optimization (DTCO)
-        - Terms: 2025 Winter, 2026 Spring, 2026 Fall
+        Research on design-technology co-optimization (DTCO) at the CAD & SoC Design Lab (Prof. Seokhyeong Kang)
     - role: Undergraduate Research Participant
-      time: 2026 Summer
-      company: Integrated Circuit and System Lab (ICSL), POSTECH
+      time: Summer 2026
+      company: ICSL, POSTECH
+      details: |
+        Summer undergraduate research program at the Integrated Circuit and System Lab
 
 publications:
     title: Presentations &amp; Conferences
     papers:
       - title: Poster Presentation
-        conference: "Korean Conference on Semiconductors (KCS) 2027 (upcoming)"
+        conference: "Korean Conference on Semiconductors (KCS) 2027 (Upcoming)"
 
       - title: Poster Session Speaker
         conference: "Samsung Dreaming Star 2026"
