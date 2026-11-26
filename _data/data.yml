@@ -63,8 +63,7 @@ experiences:
       time: Jul. 2026 - Aug. 2026
       company: Integrated Circuit & System Lab (ICSL), POSTECH
       details: |
-        - Designed and verified a 0-2-tap CML feed-forward equalizer (FFE) for a 20 Gb/s NRZ channel using Cadence Virtuoso with a 28nm PDK
-        - Analyzed eye-opening degradation caused by over-equalization in the 2-tap configuration
+        Advisor: Prof. Seonkyoo Lee
 
 skills:
     title: Skills &amp; Proficiency
