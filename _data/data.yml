@@ -82,7 +82,7 @@ skills:
       - category: Hardware Description Language
         items: Verilog
 
-      - category: Physical Design
+      - category: VLSI Design
         items: Cadence Genus/Innovus
 
       - category: Custom Circuit Design
