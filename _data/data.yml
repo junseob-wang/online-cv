@@ -43,7 +43,7 @@ career-profile:
     title: Career Profile
     summary: |
       I am a B.S. student in Semiconductor Engineering at POSTECH, which I entered
-      in 2025. Since Winter 2025, I have been an undergraduate research intern at
+      in 2025. Since January 2026, I have been an undergraduate research intern at
       the CAD & SoC Design Lab (CSDL) under Prof. Seokhyeong Kang. My research
       interest is design-technology co-optimization (DTCO), which jointly
       optimizes design and process for next-generation semiconductors.
@@ -55,13 +55,13 @@ education:
 
 experiences:
     - role: Undergraduate Research Intern
-      time: Winter 2025 - Present
+      time: Jan. 2026 - Present
       company: CAD & SoC Design Lab (CSDL), POSTECH
       details: |
         Advisor: Prof. Seokhyeong Kang
-    - role: Undergraduate Research Participant
-      time: Summer 2026
-      company: Integrated Circuit and System Lab (ICSL), POSTECH
+    - role: Undergraduate Research Intern
+      time: Jul. 2026 - Aug. 2026
+      company: Integrated Circuit & System Lab (ICSL), POSTECH
       details: |
         - Designed and verified a 0-2-tap CML feed-forward equalizer (FFE) for a 20 Gb/s NRZ channel using Cadence Virtuoso with a 28nm PDK
         - Analyzed eye-opening degradation caused by over-equalization in the 2-tap configuration
