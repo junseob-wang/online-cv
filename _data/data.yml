@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Junseob Wang
-    tagline: Undergraduate Research Intern at CSDL, POSTECH, Korea
+    tagline: Undergraduate Student at POSTECH, Korea
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,6 +31,9 @@ sidebar:
     languages:
       - idiom: Korean
         level: Native
+
+      - idiom: English
+        level: Intermediate
 
     interests:
       - item: Design-Technology Co-Optimization (DTCO)
@@ -62,20 +65,18 @@ experiences:
       details: |
         Summer undergraduate research program at the Integrated Circuit and System Lab
 
-publications:
-    title: Presentations &amp; Conferences
-    papers:
-      - title: Poster Presentation
-        conference: "Korean Conference on Semiconductors (KCS) 2027 (Upcoming)"
+skills:
+    title: Skills &amp; Proficiency
 
-      - title: Poster Session Speaker
-        conference: "Samsung Dreaming Star 2026"
+    toolset:
+      - name: Python
+        level: 80%
 
-      - title: Conference Attendance
-        conference: "Korean Conference on Semiconductors (KCS) 2026"
+      - name: Verilog
+        level: 40%
 
-      - title: Conference Attendance
-        conference: "Symposium on VLSI Technology and Circuits 2025, Kyoto"
+      - name: C/C++
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
