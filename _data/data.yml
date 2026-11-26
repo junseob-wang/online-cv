@@ -83,7 +83,7 @@ skills:
         items: Verilog
 
       - category: Physical Design
-        items: Cadence Innovus
+        items: Cadence Genus/Innovus
 
       - category: Custom Circuit Design
         items: Cadence Virtuoso
