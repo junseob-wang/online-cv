@@ -262,6 +262,19 @@ p {
     height: 12px;
     background: lighten($theme-color, 15%);
   }
+  .skill-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+  }
+  .skill-category {
+    flex: 0 0 40%;
+    font-weight: 700;
+    color: $text-color;
+  }
+  .skill-items {
+    flex: 1 1 60%;
+  }
 }
 
 .footer {

@@ -13,6 +13,12 @@
   <div class="skillset">
 
     {% for skill in skills.toolset %}
+    {% if skill.category %}
+    <div class="item skill-row">
+      <span class="skill-category">{{ skill.category }}</span>
+      <span class="skill-items">{{ skill.items }}</span>
+    </div><!--//item-->
+    {% else %}
     <div class="item">
 
       <h3 class="level-title">{{ skill.name }}</h3>
@@ -25,6 +31,7 @@
       {% endif %}
 
     </div><!--//item-->
+    {% endif %}
     {% endfor %}
 
   </div>

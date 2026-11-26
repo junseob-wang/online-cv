@@ -69,17 +69,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
+      - category: Programming Languages
+        items: Python, C/C++
 
-      - name: Verilog
+      - category: Hardware Description Language
+        items: Verilog
 
-      - name: C/C++
+      - category: Physical Design
+        items: Cadence Innovus
 
-      - name: Cadence Innovus
+      - category: Custom Circuit Design
+        items: Cadence Virtuoso
 
-      - name: Cadence Virtuoso
-
-      - name: Synopsys Sentaurus TCAD
+      - category: Device &amp; Process Simulation
+        items: Synopsys Sentaurus TCAD
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -27,6 +27,13 @@
     margin-bottom: 0;
   }
 }
+@media (max-width: 767px) {
+  .skillset .skill-category,
+  .skillset .skill-items {
+    flex-basis: 100%;
+  }
+}
+
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 }
