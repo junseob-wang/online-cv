@@ -39,14 +39,20 @@ sidebar:
       - item: Design-Technology Co-Optimization (DTCO)
         link:
 
+      - item: Design Space Optimization (DSO)
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
-      I am a B.S. student in Semiconductor Engineering at POSTECH, which I entered
-      in 2025. Since January 2026, I have been an undergraduate research intern at
-      the CAD & SoC Design Lab (CSDL) under Prof. Seokhyeong Kang. My research
-      interest is design-technology co-optimization (DTCO), which jointly
-      optimizes design and process for next-generation semiconductors.
+      Junseob Wang is currently pursuing the B.S. degree in Semiconductor
+      Engineering at Pohang University of Science and Technology (POSTECH),
+      Pohang, South Korea.
+
+      Since January 2026, he has been working as an undergraduate research
+      intern in the CAD & SoC Design Lab (CSDL) under the supervision of
+      Prof. Seokhyeong Kang. His research interests include design-technology
+      co-optimization (DTCO) and design space optimization (DSO).
 
 education:
     - degree: B.S. in Semiconductor Engineering
